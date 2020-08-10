@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Marco Antonio Figueiredo Braz :man_tecnologist:
+# Marco Antonio Figueiredo Braz :man_technologist:
 
 ___
 
-- [Linkedin](https://www.linkedin.com/in/marco-antonio-figueiredo-braz-11ba1131/)
-- [Facebook](https://www.facebook.com/figueiredobraz)
-- [Twitter](https://twitter.com/MarcoAn71036929)
+- [Linkedin Badge](https://www.linkedin.com/in/marco-antonio-figueiredo-braz-11ba1131/)
+- [Facebook Badge](https://www.facebook.com/figueiredobraz)
+- [Twitter Badge](https://twitter.com/MarcoAn71036929)
 - 📞 [Whatsapp](tel:+5513996062918)
 - 📧 [EMail](emailto:marcoantoniobraz@hotmail.com)
 
