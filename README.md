@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **devMarcoAntonio/devMarcoAntonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Marco Antonio Figueiredo Braz :man_tecnologist:
+
+___
+
+- [Linkedin](https://www.linkedin.com/in/marco-antonio-figueiredo-braz-11ba1131/)
+- [Facebook](https://www.facebook.com/figueiredobraz)
+- [Twitter](https://twitter.com/MarcoAn71036929)
+- 📞 [Whatsapp](tel:+5513996062918)
+- 📧 [EMail](emailto:marcoantoniobraz@hotmail.com)
+
+___
+
+- 📖 **I realy like to learn!**
+- 💻 Currently studying [Angular9](https://www.udemy.com/)
+- 🏫I am as a student of **Etec Dr. Ruth Cardoso** currently 2nd module in **systems development** 
