@@ -29,4 +29,4 @@ ___
 
 - 📖 **I realy like to learn!**
 - 💻 Currently studying [Angular9](https://www.udemy.com/)
-- 🏫I am as a student of **Etec Dr. Ruth Cardoso** currently 2nd module in **systems development** 
+- 🏫I am as a student at **Etec Dr. Ruth Cardoso**, currently 2nd module in **systems development** 
