@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ___
 
-- [Linkedin Badge](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BkUhHLvMcQCKZEfwgj7tmew%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-nav.homepagehttps://www.linkedin.com/in/marco-antonio-figueiredo-braz-11ba1131/)
+- [<img src="https://github.com/devMarcoAntonio/Proffys/blob/master/apresenta%C3%A7%C3%A3o/logo.svg">](https://https://www.linkedin.com/in/marco-antonio-figueiredo-braz-11ba1131/)
 - [Facebook Badge](https://www.facebook.com/figueiredobraz)
 - [Twitter Badge](https://twitter.com/MarcoAn71036929)
 - 📞 [Whatsapp](tel:+5513996062918)
