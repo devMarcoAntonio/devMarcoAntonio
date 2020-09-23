@@ -28,5 +28,5 @@ ___
 ___
 
 - 📖 **I realy like to learn!**
-- 💻 Currently studying [COBOL](https://vetusware.com/download/Cobol%202.2%202.2/?id=15305)
+- 💻 Currently studying Angular 9
 - 🏫I am as a student at **Etec Dr. Ruth Cardoso**, currently 2nd module in **systems development** 
