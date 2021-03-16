@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 ___
 
 [<img src="https://github.com/devMarcoAntonio/logos/blob/master/3d-tabbed-icons-Creative_Nerds/linkedin.png">](https://www.linkedin.com/in/marco-antonio-figueiredo-braz-11ba1131/)
-[<img src="https://github.com/devMarcoAntonio/logos/blob/master/3d-tabbed-icons-Creative_Nerds/facebook.png">](https://www.facebook.com/figueiredobraz)
-[<img src="https://github.com/devMarcoAntonio/logos/blob/master/3d-tabbed-icons-Creative_Nerds/twitter.png">](https://twitter.com/MarcoAn71036929)
-
 
 ___
 
