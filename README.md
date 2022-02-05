@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Marco Antonio Figueiredo Braz :man_technologist:
+# Marco Antonio :man_technologist:
 
 ___
 
