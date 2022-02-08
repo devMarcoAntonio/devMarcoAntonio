@@ -23,6 +23,7 @@ ___
 [<img src="https://github.com/devMarcoAntonio/logos/blob/master/3d-tabbed-icons-Creative_Nerds/linkedin.png">](https://www.linkedin.com/in/marco-antonio-figueiredo-braz-11ba1131/)
 
 ___
+![Snake animation](https://github.com/devMarcoAntonio/snake/blob/main/snake.svg)
 
 - 📖 **I realy like to learn!**
 - 💻 Currently studying Angular 9
