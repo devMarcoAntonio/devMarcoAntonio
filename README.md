@@ -27,4 +27,4 @@ ___
 
 - 📖 **I realy like to learn!**
 - 💻 Currently studying Angular 9
-- 🏫I am as a student at **Etec Dr. Ruth Cardoso**, currently 2nd module in **systems development** 
+- 🏫I am as a student at **Etec Dr. Ruth Cardoso**, currently 3nd module in **systems development** 
