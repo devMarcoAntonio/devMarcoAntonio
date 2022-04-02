@@ -26,5 +26,5 @@ ___
 ![Snake animation](https://github.com/devMarcoAntonio/snake/blob/main/snake.svg)
 
 - 📖 **I realy like to learn!**
-- 💻 Currently studying Angular 9
+- 💻 Currently studying JAVA
 - 🏫I am as a student at **Etec Dr. Ruth Cardoso**, currently 3nd module in **systems development** 
