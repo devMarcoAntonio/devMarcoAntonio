@@ -27,4 +27,5 @@ ___
 
 - 📖 **I realy like to learn!**
 - 💻 Currently studying JAVA
-- 🏫I am as a student at **Etec Dr. Ruth Cardoso**, currently 3nd module in **systems development** 
+- 🏫Graduated from college at **Etec Dr. Ruth Cardoso**, year 2022, july. **systems development** 
+-🏫Graduated from college **Unicesumar-Maringa**, year 2019, december. **technologo in management processes**
