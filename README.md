@@ -28,4 +28,4 @@ ___
 - 📖 **I realy like to learn!**
 - 💻 Currently studying JAVA
 - 🏫Graduated from college at **Etec Dr. Ruth Cardoso**, year 2022, july. **systems development** 
--🏫Graduated from college **Unicesumar-Maringa**, year 2019, december. **technologo in management processes**
+- 🏫Graduated from college **Unicesumar-Maringa**, year 2019, december. **technologo in management processes**
