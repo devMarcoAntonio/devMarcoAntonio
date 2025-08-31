@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ___
 
-[<img src="https://github.com/devMarcoAntonio/logos/blob/master/3d-tabbed-icons-Creative_Nerds/linkedin.png">](https://www.linkedin.com/in/marco-antonio-figueiredo-braz-11ba1131/)
+[<img src="https://github.com/devMarcoAntonio/logos/blob/master/3d-tabbed-icons-Creative_Nerds/linkedin.png">](www.linkedin.com/in/marco-antonio-8b627a345)
 
 ___
 ![Snake animation](https://github.com/devMarcoAntonio/snake/blob/main/snake.svg)
